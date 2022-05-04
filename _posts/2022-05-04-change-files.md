@@ -1,3 +1,19 @@
+---
+title:  "디렉토리 내의 모든 파일들 이름 일괄 변경/파일내용 일괄 변경"
+excerpt: "디렉토리 내의 모든 파일들 이름 일괄 변경/파일내용 일괄 변경 방법 "
+
+categories:
+  - Blog
+tags:
+  - [Blog, Linux]
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-05-04
+last_modified_at: 2022-05-05
+---
+
 # 디렉토리 내의 모든 파일들 이름 일괄 변경/파일내용 일괄 변경
 
 ## 하위 디렉토리 파일 내용 치환
